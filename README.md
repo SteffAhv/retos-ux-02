@@ -47,7 +47,6 @@ En este repositorio desarrollaremos el segundo reto:
 ![medium2](https://github.com/SteffAhv/retos-ux-02/blob/master/assets/images/medium/medium2.PNG?raw=true)
 ![medium3](https://github.com/SteffAhv/retos-ux-02/blob/master/assets/images/medium/medium3.PNG?raw=true)
 ![medium4](https://github.com/SteffAhv/retos-ux-02/blob/master/assets/images/medium/medium4.PNG?raw=true)
-![medium5](https://github.com/SteffAhv/retos-ux-02/blob/master/assets/images/medium/medium5.PNG?raw=true)
 ![medium6](https://github.com/SteffAhv/retos-ux-02/blob/master/assets/images/medium/medium6.PNG?raw=true)
 ![medium7](https://github.com/SteffAhv/retos-ux-02/blob/master/assets/images/medium/medium7.PNG?raw=true)
 ![medium8](https://github.com/SteffAhv/retos-ux-02/blob/master/assets/images/medium/medium8.PNG?raw=true)
