@@ -30,3 +30,25 @@ En este repositorio desarrollaremos el segundo reto:
 ![breather9](https://github.com/SteffAhv/retos-ux-02/blob/master/images/breather/breather9.PNG?raw=true)
 
 ![breather10](https://github.com/SteffAhv/retos-ux-02/blob/master/images/breather/breather10.PNG?raw=true)
+
+## Github
+***
+![github1](https://github.com/SteffAhv/retos-ux-02/blob/master/images/breather/breather10.PNG?raw=true)
+![github2](https://github.com/SteffAhv/retos-ux-02/blob/master/images/breather/breather10.PNG?raw=true)
+![github3](https://github.com/SteffAhv/retos-ux-02/blob/master/images/breather/breather10.PNG?raw=true)
+![github4](https://github.com/SteffAhv/retos-ux-02/blob/master/images/breather/breather10.PNG?raw=true)
+![github5](https://github.com/SteffAhv/retos-ux-02/blob/master/images/breather/breather10.PNG?raw=true)
+![github6](https://github.com/SteffAhv/retos-ux-02/blob/master/images/breather/breather10.PNG?raw=true)
+![github7](https://github.com/SteffAhv/retos-ux-02/blob/master/images/breather/breather10.PNG?raw=true)
+
+## Medium
+***
+![medium1](https://github.com/SteffAhv/retos-ux-02/blob/master/images/breather/breather10.PNG?raw=true)
+![medium2](https://github.com/SteffAhv/retos-ux-02/blob/master/images/breather/breather10.PNG?raw=true)
+![medium3](https://github.com/SteffAhv/retos-ux-02/blob/master/images/breather/breather10.PNG?raw=true)
+![medium4](https://github.com/SteffAhv/retos-ux-02/blob/master/images/breather/breather10.PNG?raw=true)
+![medium5](https://github.com/SteffAhv/retos-ux-02/blob/master/images/breather/breather10.PNG?raw=true)
+![medium6](https://github.com/SteffAhv/retos-ux-02/blob/master/images/breather/breather10.PNG?raw=true)
+![medium7](https://github.com/SteffAhv/retos-ux-02/blob/master/images/breather/breather10.PNG?raw=true)
+![medium8](https://github.com/SteffAhv/retos-ux-02/blob/master/images/breather/breather10.PNG?raw=true)
+![medium9](https://github.com/SteffAhv/retos-ux-02/blob/master/images/breather/breather10.PNG?raw=true)
